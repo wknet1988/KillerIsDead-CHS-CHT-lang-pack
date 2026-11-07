@@ -17,7 +17,7 @@
 
 MD5：`51d990deee1fa1d774e27b9bbe9e71e7`
 
-压缩包内是 `KID_v1.5.2/`，含 `KidGame/`（541 个补丁文件）、`readme.txt`、`SwitchLanguage.bat`。
+压缩包内是 `KID_v1.5.2/`，含 `KidGame/`（539 个补丁文件）、`readme.txt`、`SwitchLanguage.bat`，共 541 个文件。
 因为单文件超过 GitHub 仓库的 100 MB 限制，**补丁本体放在 Release 附件里**，仓库只保留文档、切换脚本和构建参考代码。
 
 ---
