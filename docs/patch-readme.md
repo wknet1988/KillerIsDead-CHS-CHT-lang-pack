@@ -1,6 +1,6 @@
 # 补丁包内 readme.txt
 
-> 原文件为 GBK / CRLF 编码，此处转为 UTF-8 便于阅读，并略去原补丁里的版权声明句。
+> 原文件为 GBK / CRLF 编码，此处转为 UTF-8 便于阅读（末尾略去原补丁的一句声明）。
 
 ```text
 杀手已死：噩梦版（Killer is Dead Nightmare Edition）
