@@ -3,10 +3,6 @@
 把起源汉化组 **v1.5.1** 的「简体中文汉化补丁」和「繁体中文汉化补丁」整合进同一份游戏安装，
 用游戏自带的 **INT / JPN 语言槽**切换简繁，不必再反复覆盖文件、也不会出现「只有第一顺位语言正常显示」。
 
-> 本仓库是**非官方整合**，只做文件层面的合并、简繁转换与缺字修复，未重新翻译任何内容。
-> 翻译文本的版权归**起源汉化组**所有，转载请注明出处，请勿用于商业用途。
-> 详见 [NOTICE.md](NOTICE.md)。
-
 ---
 
 ## 下载
@@ -91,6 +87,5 @@ KidGame\Config\KidEngine.ini  →  Language=INT 或 Language=JPN
 | [docs/patch-readme.md](docs/patch-readme.md) | 补丁包内 `readme.txt` 的 UTF-8 版 |
 | [docs/TECHNICAL.md](docs/TECHNICAL.md) | 槽位机制、UPK 结构、字体作用域、语音资源、换字清单 |
 | [tools/](tools/) | 构建时用到的参考脚本与依赖说明 |
-| [NOTICE.md](NOTICE.md) | 来源、致谢与免责 |
 
 补丁包本体请在 [Releases](https://github.com/wknet1988/KillerIsDead-CHS-CHT-lang-pack/releases) 下载。

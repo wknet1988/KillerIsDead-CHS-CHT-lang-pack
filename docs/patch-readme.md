@@ -1,6 +1,6 @@
 # 补丁包内 readme.txt
 
-> 原文件为 GBK / CRLF 编码，此处原样转为 UTF-8，便于在 GitHub 上阅读。
+> 原文件为 GBK / CRLF 编码，此处转为 UTF-8 便于阅读，并略去原补丁里的版权声明句。
 
 ```text
 杀手已死：噩梦版（Killer is Dead Nightmare Edition）
@@ -81,5 +81,4 @@ E:\Temp\kid\backup_movies_before_glyphfix    换字前的过场动画字幕
 文本来源为 PS3 官方日文版，在此基础上进行了汉化。
 仅对基于日文版文本的文件追加了翻译。
 理论上还原了 PS3 官方日文版的感觉。
-转载请注明出处，请勿用于商业用途。
 ```
