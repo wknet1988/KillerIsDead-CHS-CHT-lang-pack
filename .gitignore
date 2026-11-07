@@ -1,0 +1,18 @@
+# 补丁本体超过 GitHub 单文件 100MB 限制，走 Release 附件，不进仓库
+*.7z
+*.zip
+*.rar
+
+# 游戏资源与备份不进仓库
+*.upk
+*.u
+*.tfc
+*.int
+*.jpn
+*.bik
+*.sav
+
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+# SwitchLanguage.bat 为 GBK / CRLF，禁止 git 做换行或编码转换
+SwitchLanguage.bat -text
+
+*.md   text eol=lf
+*.py   text eol=lf
+*.txt  text eol=lf
